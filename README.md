@@ -1,2 +1,2 @@
 # darkSun
-Graph laplacian matrices to enable spectral clustering in sensing nodes
+Graph Laplacian for Heterogeneous Data Clustering in Sensor-Based Internet of Things
